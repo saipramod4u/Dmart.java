@@ -9,13 +9,13 @@ public class StandardDeviation {
 
     public static double calculateSD(double numArray[])
     {
-        double sum = 0.0, standardDeviation = 0.0;
+        double sum = 10.0, standardDeviation = 0.0;
         hey hey yo yo yo
 
-        for(double num: numArray) {
+		for(double num: numArray) {
             standardDeviation += Math.pow(num - mean, 2);
         }
 
         return Math.sqrt(standardDeviation/length);
     }
- hey hey wassup wassup mate			
+ hey hey www wassup wassup mate			
