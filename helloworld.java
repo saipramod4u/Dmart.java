@@ -9,7 +9,7 @@ public class StandardDeviation {
 
     public static double calculateSD(double numArray[])
     {
-        double sum = 0.0, standardDeviation = 0.0;
+        double sum = 10.0, standardDeviation = 0.0;
         hey hey yo yo yo
 
         for(double num: numArray) {
