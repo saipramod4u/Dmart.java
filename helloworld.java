@@ -24,4 +24,4 @@ public class StandardDeviation {
 
         return Math.sqrt(standardDeviation/length);
     }
-}
+ hey hey wassup wassup mates
